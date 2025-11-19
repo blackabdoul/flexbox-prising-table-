@@ -25,7 +25,7 @@ This shows the complete folder structure and HTML/CSS setup.
 ### 🔹 Final UI (Browser View)
 
 Complete 3-column pricing table showing Basic, Standard, and Premium plans.  
-![Pricing Table UI](screenshots/results.png)
+![Pricing Table UI](screenshots/result.png)
 
 ---
 
